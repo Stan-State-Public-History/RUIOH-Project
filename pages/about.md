@@ -27,7 +27,7 @@ Students who participated in the project at the University of Nevada, Reno inclu
 
 Following Dr. Cullison’s move to Stan State in 2022, between Spring 2024 and Summer 2025, her new student assistants as well as various volunteers recorded performances of the translated transcripts. As a result of their work, it is now possible to listen to all twenty interviews on Spotify, either in Spanish (season 1) or in English (season 2). Short bilingual summaries are available for each interview on the Spotify site.  
 
-Students who participated in the project at Stan State include Rocio Herrera, Carla Contreras, Jenny Hernandez Delgadillo, Francisco Ibarra, Ramon Rodriguez, Paulo Chacon and Ruben Marquez Jimenez. 
+Students who participated in the performance project at Stan State include Rocio Herrera, Carla Contreras, Francisco Ibarra, Ramon Rodriguez, Paulo Chacon and Ruben Marquez Jimenez.  Additionally, Jenny Hernandez Delgadillo has participated in quality control editing for Spotify as well as preparing and coding the first sets of transcripts for this site.
 
 The original interviews are housed in the Special Collections and University Archives of the University of Nevada, Reno Libraries. Interested individuals should visit the library website for longer summaries as well as information relating to partner organizations, memorandums of understanding, and consent/deed of gift forms for all participants using their legal names. 
 
