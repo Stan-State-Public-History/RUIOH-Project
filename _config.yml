@@ -20,7 +20,7 @@ source-code: https://github.com/Stan-State-Public-History/RUIOH-Project
 # title of site appears in banner
 title: Realities of Undocumented Immigrants Oral History (RUIOH) Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Undocumented experiences in Nevada, c. 1980-2023
+tagline: Undocumented experiences in Nevada circa 1980 through 2023
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This site provides thematic analysis of this oral history collection"
@@ -31,8 +31,9 @@ author: Jennifer Cullison, PhD, Jenny Hernandez Delgadillo, and future students.
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
-# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+# Use the filename of your CSV **without** the ".csv" extension!
 metadata: demo-ohd-metadata 
+
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -40,14 +41,12 @@ metadata: demo-ohd-metadata
 #     template: 'item'
 #     name: 'objectid'
 #     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+#     extension: 'html'
+#     filter: 'objectid'
 
 ##########
-# Site/Organization Branding 
-#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-#   To remove the branding, comment out these values, or delete them. 
-#
+# Site/Organization Branding
+
 organization-name: "California State University, Stanislaus, Department of History"
 organization-link: https://www.csustan.edu/history/
 #   organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
@@ -56,21 +55,14 @@ organization-link: https://www.csustan.edu/history/
 ##########
 # ROBOTS EXCLUDE
 #
-# set noindex to true if you do NOT want Google to index your site
 # noindex: true 
 
 ##########
 # BUILD SETTINGS 
 #
-# Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
-# (this is done automatically by gh-pages build)
 #
-# Library directory location. This allows you to customize where the standard assets are found.
-# provide a relative path in this repository or full url 
 lib-assets: /assets/lib
-# ignore stuff
 exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, SECURITY.md]
-# compress CSS output
 sass:
   style: compressed
